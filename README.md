@@ -4,18 +4,18 @@ El siguiente proyecto muestra un CRUD básico en la cual se utilioza Axios para 
 * Para realizar la instalación del proyecto, realice lo siguiente:
 1. Clonar el repositorio en la maquina local utilizando el comando:
 
-# git clone <URL DEL REPOSITORIO>
+* git clone <https://github.com/magalyyanezg/Axios_NextJs.git>
 
 2. Navegar al directorio del proyecto
-# cd <DIRECCIÓN DE LA CARPETA UTILIZADA>
+* cd <DIRECCIÓN DE LA CARPETA UTILIZADA>
 
 3. Instalar las dependencias (Axios) npm o yarn, si aun no se tienen instalado axios usar npm, de lo contrario yarn
-# npm install axios
-# npm install --global yarn
-# yarn add axios
+* npm install axios
+* npm install --global yarn
+* yarn add axios
 
 4. Ejecutar el proyecto 
-# npm run dev
+* npm run dev
 
 Cuando el proyecto ya haya sido ejecutado se visualizará un Crud junto con un listado, dentro del proyecto se pueden realizar las siguientes acciones:
 
